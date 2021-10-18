@@ -1,4 +1,4 @@
-# __Pierre SALMAGNE__ ![photocv](C:\Users\pierr\OneDrive\Documents\GitHub\Projet-CV-Nicolas\photo cv.jpg)
+# __Pierre SALMAGNE__ ![photocv](https://github.com/piloufaCe22/Projet-CV-Nicolas/blob/main/photo%20cv.jpg?raw=true)
 
 Etudiant 1ère année **| Communication graphique |**
 
