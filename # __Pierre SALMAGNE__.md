@@ -1,4 +1,4 @@
-# __Pierre SALMAGNE__ ![photocv](https://lh3.googleusercontent.com/ogw/ADea4I5t7NMEdCaWhPihax89DLnxkplcir9xof-q_sp_jw=s83-c-mo)
+# __Pierre SALMAGNE__ ![photocv](C:\Users\pierr\OneDrive\Documents\GitHub\Projet-CV-Nicolas\photo cv.jpg)
 
 Etudiant 1ère année **| Communication graphique |**
 
